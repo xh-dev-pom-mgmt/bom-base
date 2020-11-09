@@ -10,9 +10,8 @@
     <version>1.0.0</version>
     <name>bom-base</name>
 
-    <!-- FIXME change it to the project's website -->
-    <url>https://github.com/xh-dev-pom-mgmt</url>
-    <description>toolkit libraries</description>
+    <url>https://github.com/xh-dev-pom-mgmt/bom-base</url>
+    <description>Base maven bom, contains plugin management configurations</description>
     <licenses>
         <license>
             <name>The Apache License, Version 2.0</name>
@@ -28,9 +27,9 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git://bitbucket.org/xethhme/common-lib.git</connection>
-        <developerConnection>scm:git:ssh://bitbucket.org/xethhme/common-lib.git</developerConnection>
-        <url>https://bitbucket.org/xethhme/common-lib/src</url>
+        <connection>scm:git:git://github.com/xh-dev-pom-mgmt/bom-base.git</connection>
+        <developerConnection>scm:git:ssh://github.com:xh-dev-pom-mgmt/bom-base.git</developerConnection>
+        <url>https://github.com/xh-dev-pom-mgmt/bom-base</url>
     </scm>
     <distributionManagement>
         <snapshotRepository>
