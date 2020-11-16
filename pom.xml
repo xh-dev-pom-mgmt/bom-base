@@ -7,7 +7,7 @@
 
     <groupId>dev.xethh.libs.toolkits</groupId>
     <artifactId>bom-base</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <name>bom-base</name>
 
     <url>https://github.com/xh-dev-pom-mgmt/bom-base</url>
